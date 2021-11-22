@@ -14,16 +14,23 @@
 
 ``` sudo apt install zip -y ```
 
+``` mkdir noip && cd noip ```
+
 ----------------------------------------------------------------------------------
 
 #### Download the script and extract:
-
-``` mkdir noip && cd noip ```
 
 ``` sudo wget https://github.com/clickonrefresh/Automate-Noip-DUC/archive/main.zip  ```
 
 ``` sudo unzip main.zip ```
 
+##### OR:
+
+``` sudo wget https://www.procrastinator.me/cloud/mirrors/Automate-Noip-DUC-main.zip  ```
+
+``` sudo unzip Automate-Noip-DUC-main.zip ```
+
+----------------------------------------------------------------------------------
 
 #### To run the script, navigate into the extracted folder:
 
