@@ -24,7 +24,7 @@
 
 ``` sudo unzip main.zip ```
 
-##### OR:
+##### OR (mirror):
 
 ``` sudo wget https://www.procrastinator.me/cloud/mirrors/Automate-Noip-DUC-main.zip  ```
 
